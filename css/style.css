@@ -753,7 +753,7 @@ Ensure the default browser behavior of the `hidden` attribute.
 }
 
 .bg-hero-mobile{
-  background-image: url('/dist/images/image-hero-mobile.jpg');
+  background-image: url('/images/image-hero-mobile.jpg');
 }
 
 .bg-cover{
@@ -1055,6 +1055,6 @@ Ensure the default browser behavior of the `hidden` attribute.
   }
 
   .md\:bg-hero-desktop{
-    background-image: url('/dist/images/image-hero-desktop.jpg');
+    background-image: url('/images/image-hero-desktop.jpg');
   }
 }
